@@ -1,4 +1,4 @@
-# TIA_SMA
+# IA - Multi Agent System (college project 2021)
 
 ## Résumé
 
